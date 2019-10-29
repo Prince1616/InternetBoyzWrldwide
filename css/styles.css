@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+		margin-top: 0;
+}
+
+/*********Class Selectors******/
+			
+
+.artists {
+	opacity: 1%;
+	background-color: yellow;
+	margin-left: 55%;
+	margin-top: 0;
+	margin-right: 5%;
+	margin-bottom: 0;
+	
+}
+/**************h selectors*********/
+h1 {
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: #1e7c9e;
+	color: white;
+	position: fixed;		
+}
+
